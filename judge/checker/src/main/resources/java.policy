@@ -1,0 +1,7 @@
+grant {
+	permission java.io.FilePermission
+    		"${user.home}${/}", "read,write";
+};
+
+
+

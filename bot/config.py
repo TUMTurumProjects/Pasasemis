@@ -1,0 +1,5 @@
+TMP_FOLDER = '../judge/tmp/'
+TESTS_FOLDER = '../tests/'
+MASTER_SOLUTIONS_FOLDER = '../master_solutions/'
+TESTING_FILES_DIRECTORY = '../judge/checker/'
+STATIC_FOLDER = '../static/'

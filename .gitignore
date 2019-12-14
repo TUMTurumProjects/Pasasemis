@@ -1,0 +1,6 @@
+__pycache__/
+credentials.py
+judge/tmp/
+venv/
+.idea/
+tests_generator/output/
